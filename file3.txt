@@ -1,4 +1,8 @@
 Good afternon everyone
 This s file3.txt
 
+<<<<<<< .merge_file_nQjWyO
 Changes done in first branch
+=======
+step 9 chanes made in branch second for file 3
+>>>>>>> .merge_file_ec7rlJ
