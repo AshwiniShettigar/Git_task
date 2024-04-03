@@ -1,4 +1,8 @@
 Good afternon everyone
 This s file3.txt
 
+<<<<<<< HEAD
 step 9 chanes made in branch second for file 3
+=======
+Changes done in first branch
+>>>>>>> first

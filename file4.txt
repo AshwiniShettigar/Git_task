@@ -2,4 +2,8 @@ Good to see you here
 
 This is file4.txt
 
+<<<<<<< HEAD
 Chnages made in second branch in file 4
+=======
+Changes done for file 4 in first branch
+>>>>>>> first

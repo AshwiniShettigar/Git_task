@@ -1,3 +1,7 @@
 step3 i have modified file1.txt
 
+<<<<<<< HEAD
 step 8 modified for file 1 in branch second
+=======
+I have made changes in branch first
+>>>>>>> first
