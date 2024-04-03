@@ -1,1 +1,4 @@
 step3 i have modified file2.txt
+
+changes  done in second branch for file2
+
