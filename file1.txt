@@ -5,3 +5,5 @@ I have made changes in branch first
 =======
 step 8 modified for file 1 in branch second
 >>>>>>> .merge_file_rwtf76
+
+step 11 modifying in master

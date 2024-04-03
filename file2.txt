@@ -6,3 +6,7 @@ I have made changes in branch first
 changes  done in second branch for file2
 
 >>>>>>> .merge_file_967Gnv
+
+
+modifiying in master for file2
+
