@@ -1,21 +1,17 @@
 step3 i have modified file2.txt
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
 changes  done in second branch for file2
 
-=======
 I have made changes in branch first
->>>>>>> first
-=======
-<<<<<<< .merge_file_NueUGe
+
+
 I have made changes in branch first
-=======
 changes  done in second branch for file2
 
->>>>>>> .merge_file_967Gnv
 
 
 modifiying in master for file2
 
->>>>>>> master
+

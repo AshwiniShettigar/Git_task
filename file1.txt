@@ -1,17 +1,13 @@
 step3 i have modified file1.txt
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 step 8 modified for file 1 in branch second
-=======
+
 I have made changes in branch first
->>>>>>> first
-=======
-<<<<<<< .merge_file_qDpGOW
+
 I have made changes in branch first
-=======
 step 8 modified for file 1 in branch second
->>>>>>> .merge_file_rwtf76
+
 
 step 11 modifying in master
->>>>>>> master
+
